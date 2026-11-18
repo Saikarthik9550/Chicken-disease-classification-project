@@ -52,4 +52,4 @@ class EvaluationConfig:
     training_data: Path
     all_params: dict
     params_image_size: list
-    params_batch_size: int
+    params_batch_size: int 
